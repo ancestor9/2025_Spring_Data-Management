@@ -4,11 +4,6 @@
 1. html, css, js  예제 코드 실행 (live server 설치)
 2. postman : query
 3. www.google.com : 동적(dynamic web)이해, F12(Elements: js 포함, Network 이해)
-  - Source HTML과 Rendering HTML 이해하기 Browser(Chrome, explorer, firefox,...)는 Dish, HTML은 Recipe,
-
-1. html, css, js  예제 코드 실행 (live server 설치)
-2. postman : query
-3. www.google.com : 동적(dynamic web)이해, F12(Elements: js 포함, Network 이해)
   - Source HTML과 Rendering HTML 이해하기
 4. requests 모듈 이해하기
   - https://requests.readthedocs.io/en/latest/
