@@ -9,4 +9,8 @@
 - https://httpbin.org - HTTP 요청 테스트 사이트
 
 3. How to do
-- F12 (크롬 개발자), tag를 특정하여 copy element하여 vscode copilot과 vibe coding 하기
+- F12 (크롬 개발자), tag, 속성명/값을 특정하거나 copy element하여 vscode copilot과 vibe coding 하기
+- https://www.tcpschool.com/html/html_intro_elementStructure
+- 필요 library
+   : requests
+   : BeautifulSoup
