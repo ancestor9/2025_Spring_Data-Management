@@ -7,3 +7,6 @@
 - https://news.ycombinator.com - 해커 뉴스, 기술 관련 뉴스와 토론
 - https://example.com - 매우 단순한 구조의 기본 HTML 사이트
 - https://httpbin.org - HTTP 요청 테스트 사이트
+
+3. How to do
+- F12 (크롬 개발자), tag를 특정하여 copy element하여 vscode copilot과 vibe coding 하기
