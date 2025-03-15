@@ -5,8 +5,5 @@
 2. www.google.com : 동적(dynamic web)이해, 
   - F12(Elements: js 포함, Network 이해)
   - Source HTML과 Rendering HTML 이해하기
-3. requests 모듈 이해하기
-  - https://requests.readthedocs.io/en/latest/
-4. beautifulsoup 실습
-5. 주가분석하기 (정적 Web)
+3. 주가분석하기 (정적 Web)
   - 섬성전자와 SK하이닉스
