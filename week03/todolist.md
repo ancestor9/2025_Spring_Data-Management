@@ -1,4 +1,10 @@
 정적(Static Web page) 크롤링하고 데이터프레임 생성
+========= 강의 ===============
+1. requests 모듈 이해하기
+  - https://requests.readthedocs.io/en/latest/
+2. beautifulsoup 실습
+
+========= 실습 ===============
 1. url = 'https://quotes.toscrape.com/' : 인용구과 작가를 scrapping 총 10페이지의 내용을
 
 2. 아래 사이트에서 스크래핑 실습하기
