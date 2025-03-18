@@ -1,0 +1,11 @@
+git
+github
+github desktop
+
+- Configuratio  Management
+   - git pull:
+      → 원격 저장소 최신 내용 → 로컬 저장소로 가져오기 (fetch + merge)
+   - git push:
+      → 로컬 저장소(commit된 내용) → 원격 저장소(GitHub 등)로 업로드
+
+- 유튜부 : https://www.youtube.com/watch?v=0YsMEPxi_wc 
