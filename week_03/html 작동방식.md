@@ -1,4 +1,5 @@
 # 웹 페이지 렌더링 과정과 Beautiful Soup 한계
+### - robots.txt 규칙 예제, www.google.com.robots.txt
 
 ## 주요 단계별 HTML 상태
 
