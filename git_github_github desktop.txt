@@ -2,7 +2,7 @@ git (S/W downlaod/installation)
 github (클라우드, sing up /in)
 github desktop (Local git 사용 Tool)
 
-- Configuratio  Management
+- Configuration  Management
    - git pull:
       → 원격 저장소 최신 내용 → 로컬 저장소로 가져오기 (fetch + merge)
    - git push:
