@@ -1,4 +1,6 @@
 # 웹 페이지 렌더링 과정과 Beautiful Soup 한계
+### - What is my User Agent?
+### - robots.txt 규칙 예제 : https://www.google.com/robots.txt
 
 ## 주요 단계별 HTML 상태
 
