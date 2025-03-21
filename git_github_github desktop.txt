@@ -1,6 +1,6 @@
-git
-github
-github desktop
+git (S/W downlaod/installation)
+github (클라우드, sing up /in)
+github desktop (Local git 사용 Tool)
 
 - Configuratio  Management
    - git pull:
