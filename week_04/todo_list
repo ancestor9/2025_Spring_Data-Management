@@ -10,15 +10,16 @@ https://docs.crawl4ai.com/core/quickstart/
 5. 실습과제
   - https://github.com/PacktPublishing 은 주로 프로그래밍, 웹 디자인, 데이터 분석, 하드웨어 등 정보 기술과 관련된 인쇄 및 전자 서적과 비디오를 출판
   - 해당 url의 모든 페이지를 순회하면서 책의 제목, 깃헙url, 인기(*star)의 순서로 스크래핑하라
+
 | 제목 | URL | *Stars |
 |------|-----|--------|
-| Hands-On-Graph-Neural-Networks-Using-Python | https://github.com/PacktPublishing/Hands-On-Graph-Neural-Networks-Using-Python | 852 |
-| Java-Coding-Problems | https://github.com/PacktPublishing/Java-Coding-Problems | 797 |
-| Modern-Computer-Vision-with-PyTorch | https://github.com/PacktPublishing/Modern-Computer-Vision-with-PyTorch | 788 |
-| Learning-OpenCV-4-Computer-Vision-with-Python-Fourth-Edition | https://github.com/PacktPublishing/Learning-OpenCV-4-Computer-Vision-with-Python-Fourth-Edition | 656 |
-| Mastering-Embedded-Linux-Programming-Third-Edition | https://github.com/PacktPublishing/Mastering-Embedded-Linux-Programming-Third-Edition | 651 |
-| Developing-Cross-Platform-Apps-with-Avalonia-and-OpenSilver | https://github.com/PacktPublishing/Developing-Cross-Platform-Apps-with-Avalonia-and-OpenSilver | 0 |
-| Learning-Zig | https://github.com/PacktPublishing/Learning-Zig | 0 |
-| Your-Ultimate-Guide-To-AKS-Infrastructure-And-DevOps | https://github.com/PacktPublishing/Your-Ultimate-Guide-To-AKS-Infrastructure-And-DevOps | 0 |
-| Unreal-Engine-5-for-Games---Physics | https://github.com/PacktPublishing/Unreal-Engine-5-for-Games---Physics | 0 |
-| AI-Agents-in-Practice | https://github.com/PacktPublishing/AI-Agents-in-Practice | 0 |
+| Hands-On-Graph-Neural-Networks-Using-Python | [링크](https://github.com/PacktPublishing/Hands-On-Graph-Neural-Networks-Using-Python) | 852 |
+| Java-Coding-Problems | [링크](https://github.com/PacktPublishing/Java-Coding-Problems) | 797 |
+| Modern-Computer-Vision-with-PyTorch | [링크](https://github.com/PacktPublishing/Modern-Computer-Vision-with-PyTorch) | 788 |
+| Learning-OpenCV-4-Computer-Vision-with-Python-Fourth-Edition | [링크](https://github.com/PacktPublishing/Learning-OpenCV-4-Computer-Vision-with-Python-Fourth-Edition) | 656 |
+| Mastering-Embedded-Linux-Programming-Third-Edition | [링크](https://github.com/PacktPublishing/Mastering-Embedded-Linux-Programming-Third-Edition) | 651 |
+| Developing-Cross-Platform-Apps-with-Avalonia-and-OpenSilver | [링크](https://github.com/PacktPublishing/Developing-Cross-Platform-Apps-with-Avalonia-and-OpenSilver) | 0 |
+| Learning-Zig | [링크](https://github.com/PacktPublishing/Learning-Zig) | 0 |
+| Your-Ultimate-Guide-To-AKS-Infrastructure-And-DevOps | [링크](https://github.com/PacktPublishing/Your-Ultimate-Guide-To-AKS-Infrastructure-And-DevOps) | 0 |
+| Unreal-Engine-5-for-Games---Physics | [링크](https://github.com/PacktPublishing/Unreal-Engine-5-for-Games---Physics) | 0 |
+| AI-Agents-in-Practice | [링크](https://github.com/PacktPublishing/AI-Agents-in-Practice) | 0 |
