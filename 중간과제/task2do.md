@@ -41,6 +41,6 @@
   - 긍정/부정 키워드 기반 리뷰 분류
 - **추가 미션:**
   - 긍정/부정 키워드 시각화 (워드클라우드)
-- **활용 기술:** `Selenium`, `pandas`, `nltk` 또는 `KoNLPy`, `wordcloud`, 'Hugging face Transformer'
+- **활용 기술:** `Selenium`, `pandas`, `nltk` 또는 `KoNLPy`, `wordcloud`, `Hugging face Transformer`
 
 ---
