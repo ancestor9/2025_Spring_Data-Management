@@ -2,14 +2,14 @@
 1. 인용문 검색하기 (tag 별로)
 2. 뉴스검색하기
 3. 네이버웹툰 만화 제목 추출(source_rendered html)
- ---> crawl4AI 
+ ---> crawl4AI Module
 https://docs.crawl4ai.com/core/quickstart/ 
 . url = 'https://www.nbcnews.com/business'로 크롤링 해보기
-4. postman 사용
-
-5. 실습과제
+4. trafilatura Module: 정적 웹만
+5. postman 사용
+6. 실습과제
   - https://github.com/PacktPublishing 은 주로 프로그래밍, 웹 디자인, 데이터 분석, 하드웨어 등 정보 기술과 관련된 인쇄 및 전자 서적과 비디오를 출판
-  5.1. 해당 url의 모든 페이지(1~297 페이지)를 순회하면서 책의 제목, 깃헙url, 인기(*star)의 순서로 스크래핑하라
+  6.1. 해당 url의 모든 페이지(1~297 페이지)를 순회하면서 책의 제목, 깃헙url, 인기(*star)의 순서로 스크래핑하라
        * 깃허브 서버가 robot crawling을 눈치못 채게, user agent, 깃허브 토큰 사용, 비동기방식 고려 등등
 
 | 제목       | URL           | *Stars |
@@ -23,8 +23,8 @@ https://docs.crawl4ai.com/core/quickstart/
 | Learning-...| https://gi... | 0      |
 7338 rows × 3 columns
 
-  5.2. 책의 제목에서 가장 많이 나온 단어를 상위10가를 추출하라 (정규표현식, regular expression을 사용, import re)
-  5.3. and, with 와 같은 단어(불용어, stopword)는 제거하고 Wordcloud를 그려라
+  6.2. 책의 제목에서 가장 많이 나온 단어를 상위10가를 추출하라 (정규표현식, regular expression을 사용, import re)
+  6.3. and, with 와 같은 단어(불용어, stopword)는 제거하고 Wordcloud를 그려라
 
  ---> 전체 코드를 제출하여 깃허브 주소를 구글시트에 기록하라
 
