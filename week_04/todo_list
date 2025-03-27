@@ -27,6 +27,6 @@
   6.2. 책의 제목에서 가장 많이 나온 단어를 상위10가를 추출하라 (정규표현식, regular expression을 사용, import re)
   6.3. and, with 와 같은 단어(불용어, stopword)는 제거하고 Wordcloud를 그려라
 
- ---> 전체 코드를 제출하여 깃허브 주소를 구글시트에 기록하라
+ ---> 전체 코드를 제출하여 깃허브 주소를 구글시트에 기록하라 (eclass에 제출, mandatory)
 
 
