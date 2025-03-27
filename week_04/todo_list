@@ -2,11 +2,13 @@
 1. 인용문(https://quotes.toscrape.com/) 검색하기 (tag 별로 10페이지씩 순회)
 
 ## week_04 ##
-Summary :
-    | html 종류       | 파이썬 module      |
-    ----------------------------------------
-    | Statid(정적)    | trafilatura, re   | 
-    | Dynamic(동적)   | crawl4AI, re      |  LLM 방식에 적합한 markdown 형태 데이터
+Summary : 웹 스트래핑 Rule (F12 > copy > LLM prompts)
+    -----------------------------------------------------------------------------
+    | html 종류        | 파이썬 module                          |
+    -----------------------------------------------------------------------------
+    | Static (정적)    | requests, bs, trafilatura, re          | 
+    | Dynamic (동적)   | requests, bs, selenium, crawl4AI, re   |  LLM 방식에 적합한 markdown 형태 데이터
+    -----------------------------------------------------------------------------
 
 2. 네이버웹툰 만화 제목 추출(source_rendered html, 모두 Handling 가능)
   ---> crawl4AI Module
