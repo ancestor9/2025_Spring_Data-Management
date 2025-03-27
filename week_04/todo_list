@@ -7,7 +7,7 @@
  . url = 'https://www.nbcnews.com/business'로 크롤링 해보기
  . url = "https://comic.naver.com/webtoon/weekday" dynamic html 크롤링해보기
 4. trafilatura Module: 정적 웹만
-5. postman 사용
+5. re moduel 실습 (Regular Expression, 정규표현식)
 6. 실습과제
   - https://github.com/PacktPublishing 은 주로 프로그래밍, 웹 디자인, 데이터 분석, 하드웨어 등 정보 기술과 관련된 인쇄 및 전자 서적과 비디오를 출판
   6.1. 해당 url의 모든 페이지(1~297 페이지)를 순회하면서 책의 제목, 깃헙url, 인기(*star)의 순서로 스크래핑하라
