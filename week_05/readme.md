@@ -1,7 +1,7 @@
-## The Fundamental Text Minining 
+
 ```
-### Text mining 하기 전에
-### package 에서 __init__.py  이해하기 :
+Text mining 하기 전에
+1. package 에서 __init__.py  이해하기 :
 
 week_05/
 ├── main.py
@@ -14,12 +14,14 @@ week_05/
 - “이 폴더는 패키지야—서로 관련된 코드들이 모여 있는 특별한 공간이야.” 이 파일이 있으면
 - Python은 그 폴더를 패키지로 인식하고, 그 안에 있는 모듈들을 제대로 사용할 수 있게 돼.
 - Imagine you’re moving into a new home. At the door, you have a welcome mat that says, “Hello! This is our home.” In Python, the __init__.py file works a lot like that welcome mat. It tells Python, “This folder is a package—a special place where related code lives.”
-```
 
-5주차 ~ 7주차 강의 내용
-  preliminary snippet : 
+2. preliminary snippet : 
     * webcrwal_text-mining.ipynb
     * 웹크롤링으로 얻은 text를 분석하고 예측모형에 투입될 입력변수를 수자로 표현하고(representation) 에측하는 것이 목적
+```
+
+## The Fundamental Text Minining 
+### 5주차 ~ 7주차 강의 내용
 
 1. 텍스트마이닝 개요와 텍스트 전처리
 2. 텍스트 표현 기법과 임베딩 (Representation)
