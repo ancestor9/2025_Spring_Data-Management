@@ -38,4 +38,7 @@ Summary : 웹 스트래핑 Rule (F12 > copy > LLM prompts)
 
  ---> 전체 코드를 제출하여 깃허브 주소를 구글시트에 기록하라 (eclass에 제출, mandatory)
 
+6. 구글기사검색 API
+   - serpapi
+
 
