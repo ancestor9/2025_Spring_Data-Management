@@ -11,7 +11,7 @@ Summary :
 2. 네이버웹툰 만화 제목 추출(source_rendered html, 모두 Handling 가능)
   ---> crawl4AI Module
  https://docs.crawl4ai.com/core/quickstart/ 
- . url = 'https://www.nbcnews.com/business'로 크롤링 해보기
+ . url = 'https://www.nbcnews.com/business'로 크롤링 해보기 (optinal)
  . url = "https://comic.naver.com/webtoon/weekday" dynamic html 크롤링해보기
 3. trafilatura Module: 정적 웹만
 4. re moduel 실습 (Regular Expression, 정규표현식)
