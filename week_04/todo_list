@@ -22,16 +22,16 @@ Summary : 웹 스트래핑 Rule (F12 > copy > LLM prompts)
   5.1. 해당 url의 모든 페이지(1~297 페이지)를 순회하면서 책의 제목, 깃헙url, 인기(*star)의 순서로 스크래핑하라
        * 깃허브 서버가 robot crawling을 눈치못 채게, user agent, 깃허브 토큰 사용, 비동기방식 고려 등등
 
-| 제목       | URL           | *Stars |
-|------------|---------------|--------|
-| Hands-On...| https://gi.... | 852    |
-| Java-Codi...| https://gi... | 797    |
-| Modern-Co...| https://gi... | 788    |
-| Learning-...| https://gi... | 656    |
-| Mastering...| https://gi... | 651    |
-| Developin...| https://gi... | 0      |
-| Learning-...| https://gi... | 0      |
-7338 rows × 3 columns
+        | 제목       | URL           | *Stars |
+        |------------|---------------|--------|
+        | Hands-On...| https://gi.... | 852    |
+        | Java-Codi...| https://gi... | 797    |
+        | Modern-Co...| https://gi... | 788    |
+        | Learning-...| https://gi... | 656    |
+        | Mastering...| https://gi... | 651    |
+        | Developin...| https://gi... | 0      |
+        | Learning-...| https://gi... | 0      |
+        7338 rows × 3 columns
 
   5.2. 책의 제목에서 가장 많이 나온 단어를 상위10가를 추출하라 (정규표현식, regular expression을 사용, import re)
   5.3. and, with 와 같은 단어(불용어, stopword)는 제거하고 Wordcloud를 그려라
