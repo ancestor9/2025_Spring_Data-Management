@@ -1,6 +1,6 @@
-The Fundamental Text Minining 
+## The Fundamental Text Minining 
 
-## Text mining 하기 전에
+### Text mining 하기 전에
 ### package 에서 __init__.py  이해하기 : 
 ```
 week_05/
