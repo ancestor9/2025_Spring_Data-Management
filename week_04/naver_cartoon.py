@@ -13,8 +13,6 @@
 # print(soup.title.get_text())  # 같은 결과 출력
 
 # # --------------------dynamic web----------------------------
-
-import requests
 from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -41,8 +39,8 @@ time.sleep(5) # 3초 대기 대기안하면 None 출력
 elements = driver.find_elements(By.CSS_SELECTOR, "#container > div.ListSpot__spot_wrap--Iko15 > div.content > div > ul > li")
 
 # 가져온 데이터 출력
-# for index, element in enumerate(elements, start=1):
-#     print(f"{index}. {element.text}")
+for index, element in enumerate(elements, start=1):
+    print(f"{index}. {element.text}")
 
 
 # 브라우저 종료
