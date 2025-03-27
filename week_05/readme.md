@@ -1,4 +1,4 @@
-The Fundamentals of Text Minining 
+The Fundamental Text Minining 
 
 5주차 부터 7주차 강의 내용
   preliminary snippet : 
