@@ -1,14 +1,15 @@
-# # --------------------static web----------------------------
-# import requests
-# from bs4 import BeautifulSoup
+# --------------------static web----------------------------
+import requests
+from bs4 import BeautifulSoup
 
-# url = "https://comic.naver.com/webtoon/weekday"
-# res = requests.get(url)
-# # print(res.status_code)  # 응답 상태 확인
-# # print(res.raise_for_status())  # 에러 발생시 에러코드 출력
-# # print(res.text)  # HTML 코드 출력
+url = "https://comic.naver.com/webtoon/weekday"
+res = requests.get(url)
+# print(res.status_code)  # 응답 상태 확인
+# print(res.raise_for_status())  # 에러 발생시 에러코드 출력
+# print(res.text)  # HTML 코드 출력
 
 # soup = BeautifulSoup(res.text, "lxml")  # HTML 파싱
+# print(soup.find('span', class_='ComponentHead__text--dhKW7'))
 # print(soup.title.text)  # 제목 출력
 # print(soup.title.get_text())  # 같은 결과 출력
 
