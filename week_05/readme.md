@@ -24,6 +24,7 @@
 ```
         
 다. beautifulsoup 실습 : python -m http.server --> http://localhost:8000/
+
     * \week_03\soup_try.html, week_03\soup_try.ipynb
 
 ```
