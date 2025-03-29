@@ -1,3 +1,25 @@
+## 1~4주차 복습하기
+가. source, rendered html 실습 : python -m http.server --> F12로 'element', 'network'에서 비교
+    * \week_03\rendered_html.html, week_03\source_html.html
+나. requests 모듈 실습 :  python 실행모드에서(>>>) REST API 이해
+    --> GET 방식과 POST(BODY) 방식 + POSATMAN(https://www.postman.com/)
+    # https://requests.readthedocs.io/en/latest/user/quickstart/
+        >>> import requests
+        >>> r = requests.get('https://api.github.com/events')
+        >>> print(r.status_code)
+        >>> print(r.text)
+
+        >>> print(r.status_code)
+        >>> print(r.json())
+        >>> res = requests.post(
+            ...     'https://httpbin.org/post',
+            ...     data={'조상구': '사람'},
+            ...     headers={'Custom-Header': 'hello'}
+            ... )
+        >>> print(res.json()['headers'])
+        
+다. beautifulsoup 실습 : python -m http.server --> http://localhost:8000/
+    * \week_03\soup_try.html, week_03\soup_try.ipynb
 
 ```
 Text mining 하기 전에
