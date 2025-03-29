@@ -64,7 +64,7 @@ Week_05 : Topics
 
 ```
 실습과제 : url = "https://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz"
---> 영화 평가 댓글이다.
+--> 영화 평가 댓글이다. colab환경에서
 1. url에서 압축파일을 다운받아 압축을 풀고
 2. 디렉토리 aclImdb/train/pos/0_9.txt 훈련데이터를 다운받아
 3. from nltk.tokenize import word_tokenize 로 불용어처리된 text를 토크나이저를 적용한 후
