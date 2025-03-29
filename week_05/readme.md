@@ -5,9 +5,10 @@
     
 나. requests 모듈 실습 :  python 실행모드에서(>>>) REST API 이해
 
-##  https://new.land.naver.com/complexes/111515?ms=37.4979825,127.1073752,17&a=APT:PRE:ABYG:JGC&e=RETAIL 에서 매물 스크래핑하기
-url = https://curlconverter.com/
---> 동적 html > F12 > 버튼 클릭 > network, fetch/XHR > copy, cURL > url에서 python 코드로 / chatGPT
+다. 네이버 부동산 매물 스크래핑하기
+url = https://new.land.naver.com/complexes/111515?ms=37.4979825,127.1073752,17&a=APT:PRE:ABYG:JGC&e=RETAIL 에서 
+
+--> 동적 html > F12 > 버튼 클릭 > network, fetch/XHR > copy, cURL(curl converter)에서 python 코드로 / chatGPT
 
     --> GET 방식과 POST(BODY) 방식 + POSATMAN(https://www.postman.com/)
 ```
