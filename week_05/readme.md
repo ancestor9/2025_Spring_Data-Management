@@ -43,7 +43,9 @@ Text mining 하기 전에
 
 ## The Fundamental Text Minining 
 ### 5주차 ~ 7주차 강의 내용
+
 *** 참고자료 : https://wikidocs.net/book/2155
+
 *** 필수학습자료 : https://jakevdp.github.io/PythonDataScienceHandbook/ (Vectorized String Operations)
 
 1. 텍스트마이닝 개요와 텍스트 전처리
