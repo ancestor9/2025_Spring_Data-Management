@@ -31,6 +31,7 @@
 url = https://new.land.naver.com/complexes/111515?ms=37.4979825,127.1073752,17&a=APT:PRE:ABYG:JGC&e=RETAIL 에서 
 
 --> 동적 html > F12 > 버튼 클릭 > network, fetch/XHR > copy, cURL(curl converter)에서 python 코드로 / chatGPT
+--> 네이버 뉴스 기사 API(https://developers.naver.com/main/)
 
 ```
 Text mining 하기 전에
