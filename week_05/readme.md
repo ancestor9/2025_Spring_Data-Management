@@ -56,7 +56,7 @@ Text mining 하기 전에
 Week_05 : Topics
 ## 1. 텍스트마이닝 개요와 텍스트 전처리
 
-  1. tonizer
+  1. tockenizer
   2. stopword
   3. text data preprocessing
 
