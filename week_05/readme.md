@@ -46,7 +46,10 @@ Text mining 하기 전에
 
 *** 참고자료 : https://wikidocs.net/book/2155
 
-*** 사전 필수 학습자료 : https://jakevdp.github.io/PythonDataScienceHandbook/ (Vectorized String Operations)
+*** 사전 필수 학습자료 : 
+    a. https://jakevdp.github.io/PythonDataScienceHandbook/ (Vectorized String Operations)
+    b. textmining_basic.ipynb 과제
+
 
 1. 텍스트마이닝 개요와 텍스트 전처리
 2. 텍스트 표현 기법과 임베딩 (Representation)
