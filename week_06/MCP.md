@@ -6,3 +6,13 @@
 ![MCP Architecture](https://www.claudemcp.com/images/blog/what-is-mcp.png)
   
 - https://www.youtube.com/watch?v=Rn5HMaWunx4&t=73s
+
+## claude에서 MCP => file system와 brave search
+--> https://www.youtube.com/watch?v=Ug1w8Lr4Sy8
+
+1. https://claude.ai/download (claude desktop 다운로드)
+2. https://nodejs.org/ko (Node.js 설치)
+3. https://github.com/modelcontextprotocol (깃허브 MCP)
+
+
+----> claude_desktop_config.json 을 참고하여 여러분 API를 입력하여 작동시키세요
