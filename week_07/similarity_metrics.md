@@ -1,4 +1,9 @@
 ### 참고자료 : https://wikidocs.net/127857
+- 09장 자연어 처리와 토큰화, 수치화, 수량화에의한 정보요약
+  1. 텍스트 자료의 토큰화(단어나 문장의 Tokenization)
+  2. 텍스트 자료의 수치화(단어의 수치화, Onehotencoding, BOW)
+  3. 문서의 수량화(TF, DF-IDF)
+  4. 코사인유사도 기반의 문서 유사도(COsine Similarity)
 
 ![Wprd Embeddings](https://velog.velcdn.com/images/leeebs/post/f3b865fc-44c0-4be6-9490-9e07cec7a860/image.png)
 
