@@ -1,3 +1,5 @@
+### 참고자료 : https://wikidocs.net/127857
+
 ![Wprd Embeddings](https://velog.velcdn.com/images/leeebs/post/f3b865fc-44c0-4be6-9490-9e07cec7a860/image.png)
 
 
