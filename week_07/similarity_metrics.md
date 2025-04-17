@@ -10,3 +10,6 @@ https://zilliz.com/blog/similarity-metrics-for-vector-search
 ### 2. Why do you use inner product in Linear Algebra?
 ### 3. What is the difference between 2/10 and 2000/10000 ?
 ### 4. How to apply the webcrawling technique to Feature Engineering?
+
+
+## Naver API, 공공데이터 API, Google News API
