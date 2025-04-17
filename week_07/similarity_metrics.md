@@ -1,5 +1,5 @@
 ### 참고자료 : https://wikidocs.net/127857
-- 09장 자연어 처리와 토큰화, 수치화, 수량화에의한 정보요약
+- 09장 자연어 처리와 토큰화, 수치화, 수량화에 의한 정보표현(Representation Learning)
   1. 텍스트 자료의 토큰화 (단어나 문장의 Tokenization)
   2. 텍스트 자료의 수치화 (단어의 수치화, Onehotencoding, BOW)
   3. 문서의 수량화 (TF, DF-IDF)
