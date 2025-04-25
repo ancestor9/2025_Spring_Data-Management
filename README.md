@@ -8,11 +8,15 @@
 
 <span style="font-size:10px">
 - 선형대수(Linear Algebra)
+  
 - 선형대수와 regression 표현
+
 - logistic regression과 deep learning
-- 프론트엔드와 벡엔드 개발
+
 - Modern Web Architecture
+
 - Streamlit, gradio(프론트엔드), ngrok
+
 - Fast API, sqlite3(벡엔드)
 </span>
 
