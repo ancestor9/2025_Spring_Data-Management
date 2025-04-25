@@ -9,7 +9,7 @@ Summary : 웹 스트래핑 Rule (F12 > copy > LLM prompts)
     | Static (정적)    | requests, bs, trafilatura, re          | 
     | Dynamic (동적)   | requests, bs, selenium, crawl4AI, re   |  LLM 방식에 적합한 markdown 형태 데이터
     -----------------------------------------------------------------------------
-
+----------
 2. 네이버웹툰 만화 제목 추출(source_rendered html, 모두 Handling 가능)
   ---> crawl4AI Module
  https://docs.crawl4ai.com/core/quickstart/ 
