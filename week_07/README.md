@@ -1,3 +1,4 @@
+## similarity_metrics
 ### 참고자료 : https://wikidocs.net/127857
 - 09장 자연어 처리와 토큰화, 수치화, 수량화에 의한 정보표현(Representation Learning)
   1. 텍스트 자료의 토큰화 (단어나 문장의 Tokenization)
