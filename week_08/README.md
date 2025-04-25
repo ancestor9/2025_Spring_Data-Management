@@ -6,7 +6,6 @@
 
 Topic Modeling
 - 토픽모델링 수행하기
-  * https://www.foodinfo.or.kr/portal/bbs/detailBBSArticle.do#none
 
 ** Text_Representation_and_Embedding_04.ipynb --> 2학기에 LLM 수업 시 이해해도 됨
 
