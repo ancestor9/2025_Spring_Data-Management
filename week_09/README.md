@@ -1,5 +1,6 @@
 
-### 벡터의 연산과 기하학 (https://amber-chaeeunk.tistory.com/69)
+### 벡터의 연산과 기하학
+[![Why do we use logs in machine learning?](https://img.youtube.com/vi/fNk_zzaMoSs/0.jpg)](https://www.youtube.com/watch?v=fNk_zzaMoSs)
 
 ### 차원축소 (SVD. PCA)
 - 행렬을 인수분해(Matrix Decomposition)
