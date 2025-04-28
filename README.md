@@ -1,3 +1,4 @@
+## Sylabus
 - 생성형 AI와 LLM
 - 웹크롤링 : 웹 text 데이터 수집, 정제 및 시각화 기법 (requests, bs4, selenium)
 - 텍스트 데이터처리 : scikit learn, embedding, Hugging Face Opensource LLM
@@ -6,7 +7,7 @@
 - Data Preprocessing
 - Machine Learning
 
-<span style="font-size:10px">
+## 2학기 학습과제
 - 선형대수(Linear Algebra)
   
 - 선형대수와 regression 표현
@@ -18,5 +19,4 @@
 - Streamlit, gradio(프론트엔드), ngrok
 
 - Fast API, sqlite3(벡엔드)
-</span>
 
