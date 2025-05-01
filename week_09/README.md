@@ -1,5 +1,5 @@
 
-### 벡터의 연산과 기하학
+### 벡터의 연산과 기하학 (2학기에 lets' learn)
 ### 📘 **Essence of Linear Algebra - Playlist**  
 [![Why do we use logs in machine learning?](https://img.youtube.com/vi/fNk_zzaMoSs/0.jpg)](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)  
 🔗 [Watch on YouTube](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
