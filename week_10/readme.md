@@ -5,5 +5,8 @@
 -  sqlite3(RDB)와 Mong Db(No sql)을 이해 : 참고코드 ---> 01_Data_Modeling_Using_Python.ipynb
 -  데이터 정규화(Data Normalization)에 대하여, Pydantic 이해 : 참고코드 ---> 02_Data_Modeling.ipynb
 -  MVC(Model - View - Control), S(주어) + V(동사) + O(목적어): 참고코드 ---> 03_Data_Sales_Simulation.ipynb
+
+![MVC Process](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/MVC-Process.svg/250px-MVC-Process.svg.png)
+
 -  VIBE Coding 실습하기 : 참고코드 ---> 04_Data_Collecting.ipynb
 
