@@ -6,7 +6,7 @@
 -  데이터 정규화(Data Normalization)에 대하여, Pydantic 이해 : 참고코드 ---> 02_Data_Modeling.ipynb
 -  MVC(Model - View - Control), S(주어) + V(동사) + O(목적어): 참고코드 ---> 03_Data_Sales_Simulation.ipynb
 
-![MVC Process](https://media.geeksforgeeks.org/wp-content/uploads/20220224160807/Model1.png](https://media.geeksforgeeks.org/wp-content/uploads/20220224160807/Model1.png))
+![MVC Process](https://media.geeksforgeeks.org/wp-content/uploads/20220224160807/Model1.png](https://media.geeksforgeeks.org/wp-content/uploads/20220224160807/Model1.png)
 
 -  VIBE Coding 실습하기 : 참고코드 ---> 04_Data_Collecting.ipynb
 
