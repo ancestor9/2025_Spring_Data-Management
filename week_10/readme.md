@@ -10,3 +10,4 @@ https://www.geeksforgeeks.org/mvc-framework-introduction/
 
 -  VIBE Coding 실습하기 : 참고코드 ---> 04_Data_Collecting.ipynb
 
+![DuckDB](https://github.com/duckdb/duckdb/raw/main/logo/DuckDB_Logo-horizontal-dark-mode.svg)
