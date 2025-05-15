@@ -13,5 +13,5 @@
 > - 단어의 Embedding과 내적, Similarity
 > - Transformer, Deep learning 도 내적의 계산으로 간주
 
-<img src="https://fs-cdn.freshlearn.com/36862/cZr86S5QHmfBjX6RRmPPLordKelvin1280-u8WTD2thUu.jpg" width="300"/>
+<img src="https://fs-cdn.freshlearn.com/36862/cZr86S5QHmfBjX6RRmPPLordKelvin1280-u8WTD2thUu.jpg" width="600"/>
 
