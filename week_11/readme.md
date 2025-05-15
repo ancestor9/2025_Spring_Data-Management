@@ -1,4 +1,4 @@
-### A. 확률(Probability)에 대하여
+### A. 확률(確率, probability)에 대하여
 > ### 1. 확률 변수(Random Variable)
 > ### 2. 확률 분포(Probability Distribution)
 >> - 확률뷴포를 알면 모든 것을 아는 것이고 예측이 가능하다.
