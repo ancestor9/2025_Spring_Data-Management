@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="700" viewBox="0 0 800 700">
+  <!-- 배경 -->
+  <rect width="800" height="700" fill="white"/>
+  <text x="400" y="40" font-family="Arial" font-size="24" text-anchor="middle" font-weight="bold">베이지안 지식 추적(BKT) 조건부 확률의 벤다이어그램</text>
+  
+  <!-- 정답일 경우 (위쪽) -->
+  <g transform="translate(0, -40)">
+    <text x="400" y="120" font-family="Arial" font-size="20" text-anchor="middle" font-weight="bold">정답일 경우(Correct)</text>
+    
+    <!-- 전체 영역 (정답인 경우) -->
+    <rect x="150" y="140" width="500" height="230" fill="#f0f0f0" stroke="black" stroke-width="2"/>
+    <text x="400" y="170" font-family="Arial" font-size="16" text-anchor="middle">정답 확률: P(C) = p_know·(1-p_slip) + (1-p_know)·p_guess</text>
+    
+    <!-- 영역 나누기 -->
+    <rect x="170" y="190" width="280" height="150" fill="#a8d5ba" stroke="black" stroke-width="2"/>
+    <text x="310" y="215" font-family="Arial" font-size="16" text-anchor="middle">알고 있음 (p_know)</text>
+    
+    <rect x="190" y="225" width="240" height="100" fill="#68b386" stroke="black" stroke-width="2"/>
+    <text x="310" y="260" font-family="Arial" font-size="14" text-anchor="middle">알고 있고 맞춤</text>
+    <text x="310" y="285" font-family="Arial" font-size="14" text-anchor="middle">p_know·(1-p_slip)</text>
+    
+    <rect x="450" y="190" width="180" height="150" fill="#ffcccb" stroke="black" stroke-width="2"/>
+    <text x="540" y="215" font-family="Arial" font-size="16" text-anchor="middle">모르고 있음 (1-p_know)</text>
+    
+    <rect x="470" y="225" width="140" height="100" fill="#ff8080" stroke="black" stroke-width="2"/>
+    <text x="540" y="260" font-family="Arial" font-size="14" text-anchor="middle">모르지만 맞춤</text>
+    <text x="540" y="285" font-family="Arial" font-size="14" text-anchor="middle">(1-p_know)·p_guess</text>
+    
+    <!-- 정답인데 알고 있을 확률 계산 -->
+    <text x="400" y="355" font-family="Arial" font-size="16" text-anchor="middle" font-weight="bold">
+      P(Know|Correct) = p_know·(1-p_slip) / [p_know·(1-p_slip) + (1-p_know)·p_guess]
+    </text>
+  </g>
+  
+  <!-- 오답일 경우 (아래쪽) -->
+  <g transform="translate(0, 240)">
+    <text x="400" y="120" font-family="Arial" font-size="20" text-anchor="middle" font-weight="bold">오답일 경우(Incorrect)</text>
+    
+    <!-- 전체 영역 (오답인 경우) -->
+    <rect x="150" y="140" width="500" height="230" fill="#f0f0f0" stroke="black" stroke-width="2"/>
+    <text x="400" y="170" font-family="Arial" font-size="16" text-anchor="middle">오답 확률: P(~C) = p_know·p_slip + (1-p_know)·(1-p_guess)</text>
+    
+    <!-- 영역 나누기 -->
+    <rect x="170" y="190" width="280" height="150" fill="#a8d5ba" stroke="black" stroke-width="2"/>
+    <text x="310" y="215" font-family="Arial" font-size="16" text-anchor="middle">알고 있음 (p_know)</text>
+    
+    <rect x="190" y="225" width="100" height="100" fill="#68b386" stroke="black" stroke-width="2"/>
+    <text x="240" y="255" font-family="Arial" font-size="14" text-anchor="middle">알고 있지만</text>
+    <text x="240" y="280" font-family="Arial" font-size="14" text-anchor="middle">실수로 틀림</text>
+    <text x="240" y="305" font-family="Arial" font-size="14" text-anchor="middle">p_know·p_slip</text>
+    
+    <rect x="450" y="190" width="180" height="150" fill="#ffcccb" stroke="black" stroke-width="2"/>
+    <text x="540" y="215" font-family="Arial" font-size="16" text-anchor="middle">모르고 있음 (1-p_know)</text>
+    
+    <rect x="470" y="225" width="140" height="100" fill="#ff8080" stroke="black" stroke-width="2"/>
+    <text x="540" y="255" font-family="Arial" font-size="14" text-anchor="middle">모르고 틀림</text>
+    <text x="540" y="280" font-family="Arial" font-size="14" text-anchor="middle">(1-p_know)·(1-p_guess)</text>
+    
+    <!-- 오답인데 알고 있을 확률 계산 -->
+    <text x="400" y="355" font-family="Arial" font-size="16" text-anchor="middle" font-weight="bold">
+      P(Know|Incorrect) = p_know·p_slip / [p_know·p_slip + (1-p_know)·(1-p_guess)]
+    </text>
+  </g>
+  
+  <!-- 학습 효과 표현 -->
+  <rect x="150" y="615" width="500" height="60" fill="#e6f7ff" stroke="#0066cc" stroke-width="2" rx="10" ry="10"/>
+  <text x="400" y="650" font-family="Arial" font-size="18" text-anchor="middle" font-weight="bold">
+    문제 풀이 후 최종 확률: P(Know, t+1) = P(Know|Obs) + (1-P(Know|Obs))·p_learn
+  </text>
+</svg>
