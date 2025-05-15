@@ -10,7 +10,7 @@
 - LLM에 질문하고
 - 코딩을 만들고 그 내용을 공부한다.
 
-#### 최근 AX(AI Transformation) 추세(혼자 다해여 한다.)
+#### 최근 AX(AI Transformation) 추세(나홀로 폭삭 속았수다)
 - https://www.youtube.com/watch?si=TPN_gRSMlL3xPQxe&v=BvjWJU09AGQ&feature=youtu.be
 - https://www.youtube.com/watch?v=_j7NjmCbrDQ&si=jgZ3BA4BoBXvb9GV
 
