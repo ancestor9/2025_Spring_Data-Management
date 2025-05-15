@@ -17,5 +17,5 @@
 - 단어의 Embedding과 내적, Similarity
 - Transformer, Deep learning 도 내적의 계산으로 간주
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Flearningspy.co.uk%2Fresearch%2Feducation-and-epidemiology%2Fattachment%2Fquote-i-often-say-that-when-you-can-measure-what-you-are-speaking-about-and-express-it-in-numbers-you-lord-kelvin-307359%2F&psig=AOvVaw2_kgpeLJHfY5bOx0-ZBBX_&ust=1747362806250000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjXr_G3pI0DFQAAAAAdAAAAABAE)
+![절대온도와 머신러닝](https://www.google.com/url?sa=i&url=https%3A%2F%2Flearningspy.co.uk%2Fresearch%2Feducation-and-epidemiology%2Fattachment%2Fquote-i-often-say-that-when-you-can-measure-what-you-are-speaking-about-and-express-it-in-numbers-you-lord-kelvin-307359%2F&psig=AOvVaw2_kgpeLJHfY5bOx0-ZBBX_&ust=1747362806250000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjXr_G3pI0DFQAAAAAdAAAAABAE)
 
