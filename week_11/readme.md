@@ -28,14 +28,6 @@
 그 주제가 무엇이든 간에 말이지요.”
 
 이 문장은 과학적 사고의 본질을 강조한 것으로, 정량화의 중요성을 말해주는 고전적인 통찰입니다. 이 말은 19세기 물리학자이자 공학자인 **윌리엄 톰슨(케빈 경, Lord Kelvin)**이 자주 인용하던 내용입니다.
-
-
-
-
-
-
-
-
-
+데이터과학분야에서도 수치화 Representation Learning과 밀접한 관련이 있어 소개합니다.
 <img src="https://fs-cdn.freshlearn.com/36862/cZr86S5QHmfBjX6RRmPPLordKelvin1280-u8WTD2thUu.jpg" width="600"/>
 
