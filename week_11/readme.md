@@ -1,3 +1,4 @@
+# A. 확률(Probability)에 대하여
 ## 1. 확률 변수(Random Variable)
 
 ## 2. 확률 분포(Probability Distribution)
@@ -11,4 +12,8 @@
 
 ## 4. 응용 (Application)
 - AI Tutor: 학생 수준별 문제 제공 알고리즘
+
+# B. 선형대수의 내적(Inner Product, Linear Algebra)에 대하여
+- 단어의 Embedding과 내적, Similarity
+- Transformer, Deep learning 도 내적의 계산으로 간주
 
