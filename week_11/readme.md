@@ -10,7 +10,7 @@
 - https://chatgpt.com/share/682547c4-76fc-800f-8eb5-fefb2f6667be
 - https://chatgpt.com/share/68254f73-8b00-800f-884e-127103afe57b
 
-### 4. 응용 (Application)
+> ### 5. 응용 (Application)
 - AI Tutor: 학생 수준별 문제 제공 알고리즘 (AI_Tutor.ipynb)
 
 ## B. 선형대수의 내적(Inner Product, Linear Algebra)에 대하여(20250513_Vector Databases.pptx)
