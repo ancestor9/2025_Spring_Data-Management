@@ -11,7 +11,7 @@
 
 ## B. 선형대수의 내적(Inner Product, Linear Algebra)에 대하여(20250513_Vector Databases.pptx)
 > - 단어의 Embedding과 내적, Similarity
-> - Transformer, Deep learning 도 내적의 계산으로 간주
+> - Transformer, Deep learning 도 단어의 위치를 고려하여 내적 계산 방식임
 
 
 “나는 종종 이렇게 말하곤 합니다.
