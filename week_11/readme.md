@@ -3,7 +3,7 @@
 ## 2. 확률 분포(Probability Distribution)
 - 확률뷴포를 알면 모든 것을 아는 것이고 예측이 가능하다.
 
-## 3. 확률분포에 대하여
+## 3. 확률 분포에 대하여
 - https://chatgpt.com/share/68254f73-8b00-800f-884e-127103afe57b
   
 ## 4. Bayseain Theorm 과 AI
