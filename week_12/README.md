@@ -10,6 +10,11 @@
 - LLM에 질문하고
 - 코딩을 만들고 그 내용을 공부한다.
 
+#### 최근 AX(AI Transformation) 추세(혼자 다해여 한다.)
+- https://www.youtube.com/watch?si=TPN_gRSMlL3xPQxe&v=BvjWJU09AGQ&feature=youtu.be
+- https://www.youtube.com/watch?v=_j7NjmCbrDQ&si=jgZ3BA4BoBXvb9GV
+
+
 ### 3. LLM과 코딩 작업 수행과정(하드/소프트 스킬 사용)
 1. 원자료 : [Raw Data](https://adstat.kobaco.co.kr/mcr/portal/mainPage.do)  에서 [2018년/2019년도 데이터 수집](https://adstat.kobaco.co.kr/mcr/portal/dataSet/mdssListPage.do)
 2. 데이터 수집 (Obtain Data)
