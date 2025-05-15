@@ -6,6 +6,6 @@
 ## 3. Bayseain Theorm 과 AI
 - https://chatgpt.com/share/682547c4-76fc-800f-8eb5-fefb2f6667be
 
-## 응용 (Application)
+## 4. 응용 (Application)
 - AI Tutor: 학생 수준별 문제 제공 알고리즘
 
