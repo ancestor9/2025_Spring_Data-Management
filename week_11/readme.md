@@ -1,8 +1,8 @@
-### A. 선형대수의 내적(Inner Product, Linear Algebra)에 대하여(20250513_Vector Databases.pptx)
-> - 단어의 Embedding과 내적, Similarity
+### A. 선형대수(Linear Algebra, 線型代數)
+> - 단어의 Embedding과 내적(Inner/dot product, 內積), Similarity : 20250513_Vector Databases.pptx
 > - Transformer, Deep learning 도 단어의 위치를 고려하여 내적 계산 방식임
 > - 선형변환(Linear Transformation)과 내적(Inner Product)의 의미와 연관성
-> - 회귀분석과 Deep Learning, 차원축소(주성분분석, SVD, Matrix Decomposition 등등)
+> - 회귀분석과 Deep Learning, 차원축소(주성분분석, SVD, Matrix Decomposition 등등) : Linear Algebra for Machine Learning.pptx
 
 ### B. 확률(確率, probability)에 대하여
 > ### 1. 확률 변수(Random Variable)
