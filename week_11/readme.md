@@ -1,4 +1,9 @@
-### A. 확률(確率, probability)에 대하여
+### A. 선형대수의 내적(Inner Product, Linear Algebra)에 대하여(20250513_Vector Databases.pptx)
+> - 단어의 Embedding과 내적, Similarity
+> - Transformer, Deep learning 도 단어의 위치를 고려하여 내적 계산 방식임
+> - 선형변환(Linear Transformation)
+
+### B. 확률(確率, probability)에 대하여
 > ### 1. 확률 변수(Random Variable)
 > ### 2. 확률 분포(Probability Distribution)
 >> - 확률뷴포를 알면 모든 것을 아는 것이고 예측이 가능하다.
@@ -8,10 +13,6 @@
 >> - https://chatgpt.com/share/68254f73-8b00-800f-884e-127103afe57b
 > ### 5. 응용 (Application)
 >> - AI Tutor: 학생 수준별 문제 제공 알고리즘 (AI_Tutor.ipynb)
-
-### B. 선형대수의 내적(Inner Product, Linear Algebra)에 대하여(20250513_Vector Databases.pptx)
-> - 단어의 Embedding과 내적, Similarity
-> - Transformer, Deep learning 도 단어의 위치를 고려하여 내적 계산 방식임
 
 
 “나는 종종 이렇게 말하곤 합니다.
