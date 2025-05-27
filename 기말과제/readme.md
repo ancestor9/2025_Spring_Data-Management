@@ -21,4 +21,5 @@
 #### 4. 제출 방법 : e-class
 
 
-[Machine Learning Process — Overview, quoted by Analytics Vidhya](https://miro.medium.com/v2/resize:fit:640/format:webp/1*dx5lJ2lm1XuDI7jVVIP4SQ.png)
+[Machine Learning Process — Overview, quoted by Analytics Vidhya]
+<img src ="https://miro.medium.com/v2/resize:fit:640/format:webp/1*dx5lJ2lm1XuDI7jVVIP4SQ.png">
