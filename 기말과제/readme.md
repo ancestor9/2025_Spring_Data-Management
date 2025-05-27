@@ -19,3 +19,6 @@
 - i. 특성변수 추출은 자율적으로 하여 예측모형의 성능지표(accuracy)를 최대로 하게 하라
 
 #### 4. 제출 방법 : e-class
+
+
+[Machine Learning Process — Overview, quoted by Analytics Vidhya](https://miro.medium.com/v2/resize:fit:640/format:webp/1*dx5lJ2lm1XuDI7jVVIP4SQ.png)
