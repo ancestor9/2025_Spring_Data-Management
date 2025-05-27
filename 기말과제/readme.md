@@ -18,6 +18,7 @@
 - g. 사이킷런의 [Gaussian Naive Bayes](https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.GaussianNB.html) 알고리즘을 데이터에 fit(learn, train)하여 모델을 생성하라
 - h. 검증데이터로 모델의 성능을 정확도(accuracy)와 confusion matrix를 생성하라
 - i. 특성변수 추출은 자율적으로 하여 예측모형의 성능지표(accuracy)를 최대로 하게 하라
+- j. 예측모형의 정확도가 낮은 경우에는 변수를 추가하거나, SMOTE 기법 등을 적용하여 예측 모형의 성능을 높여라
 
 #### 4. 제출 방법 : e-class
 
